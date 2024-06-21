@@ -24,6 +24,9 @@ while True:
     if valor == 4:
         print("la division es",num1/num2)
         break;
+    if valor == 5:
+        print("la suma es:",num1+num2num3)
+        break;
     else:
         print("Opcion incorrecta")
         break;
